@@ -5,7 +5,7 @@
 ## Student Information 
 
 Name: Rey Vincent B. Ilosorio
-Course: BSCS-AI
+Course: CS-FUNDAI
 Section: 09282-FUNDAI
 GitHub Username: ReyVincent-eng
 
