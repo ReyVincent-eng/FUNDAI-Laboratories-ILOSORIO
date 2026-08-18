@@ -1,2 +1,12 @@
 # FUNDAI-Laboratories-ILOSORIO
-# FUNDAI Laboratory Outputs  ## Student Information - Name: [Your Name] - Course: [Your Course] - Section: [Your Section] - GitHub Username: [Your Username]  ## Laboratory Activities - Lab 1: Environment Onboarding
+
+# FUNDAI Laboratory Outputs  
+
+## Student Information - Name: Rey Vincent B. Ilosorio
+Course: BSCS-AI
+Section: 09282-FUNDAI
+GitHub Username: ReyVincent-eng
+
+## Laboratory Activities  
+
+Lab 1: Environment Onboarding
