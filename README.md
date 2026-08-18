@@ -2,7 +2,9 @@
 
 # FUNDAI Laboratory Outputs  
 
-## Student Information - Name: Rey Vincent B. Ilosorio
+## Student Information 
+
+Name: Rey Vincent B. Ilosorio
 Course: BSCS-AI
 Section: 09282-FUNDAI
 GitHub Username: ReyVincent-eng
