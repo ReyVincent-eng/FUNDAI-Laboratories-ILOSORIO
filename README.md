@@ -4,10 +4,10 @@
 
 ## Student Information 
 
-Name: Rey Vincent B. Ilosorio
-Course: CS-FUNDAI
-Section: 09282-FUNDAI
-GitHub Username: ReyVincent-eng
+- Name: Rey Vincent B. Ilosorio
+- Course: CS-FUNDAI
+- Section: 09282-FUNDAI
+- GitHub Username: ReyVincent-eng
 
 ## Laboratory Activities  
 
